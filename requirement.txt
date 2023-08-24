@@ -1,5 +1,6 @@
-streamlit
-numpy
+streamlit==1.13.0
+numpy==1.21.5
 scikit-learn==1.0.2
+pickle
 
 
